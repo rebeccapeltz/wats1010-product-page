@@ -17,3 +17,8 @@ body {
 footer {
     margin-top: 20px;
 }
+
+
+#testimonials .cust-pic {
+    border: 1px solid lightgray;
+}
